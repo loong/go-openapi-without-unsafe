@@ -31,7 +31,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/purell"
-	"github.com/go-openapi/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
 )
 
 const (

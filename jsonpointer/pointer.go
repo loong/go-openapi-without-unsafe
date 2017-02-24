@@ -32,7 +32,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 const (

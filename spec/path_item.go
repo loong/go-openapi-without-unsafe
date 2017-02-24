@@ -17,8 +17,8 @@ package spec
 import (
 	"encoding/json"
 
-	"github.com/go-openapi/jsonpointer"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 // pathItemProps the path item specific properties

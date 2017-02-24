@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/go-openapi/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/spec"
 	"github.com/stretchr/testify/assert"
 )
 

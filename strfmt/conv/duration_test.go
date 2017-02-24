@@ -3,7 +3,7 @@ package conv
 import (
 	"testing"
 
-	"github.com/go-openapi/strfmt"
+	"github.com/mindworker/go-openapi-without-unsafe/strfmt"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,6 +1,6 @@
 package conv
 
-import "github.com/go-openapi/strfmt"
+import "github.com/mindworker/go-openapi-without-unsafe/strfmt"
 
 // Date returns a pointer to of the Date value passed in.
 func Date(v strfmt.Date) *strfmt.Date {

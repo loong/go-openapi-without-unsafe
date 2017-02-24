@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 
 	"gopkg.in/yaml.v2"
 )

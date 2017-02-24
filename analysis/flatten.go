@@ -10,9 +10,9 @@ import (
 
 	"strconv"
 
-	"github.com/go-openapi/jsonpointer"
-	swspec "github.com/go-openapi/spec"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
+	swspec "github.com/mindworker/go-openapi-without-unsafe/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 // FlattenOpts configuration for flattening a swagger specification.

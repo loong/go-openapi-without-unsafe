@@ -1,8 +1,8 @@
 package analysis
 
 import (
-	"github.com/go-openapi/spec"
-	"github.com/go-openapi/strfmt"
+	"github.com/mindworker/go-openapi-without-unsafe/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/strfmt"
 )
 
 // SchemaOpts configures the schema analyzer

@@ -1,6 +1,6 @@
 package conv
 
-import "github.com/go-openapi/strfmt"
+import "github.com/mindworker/go-openapi-without-unsafe/strfmt"
 
 // Duration returns a pointer to of the Duration value passed in.
 func Duration(v strfmt.Duration) *strfmt.Duration {

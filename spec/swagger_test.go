@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 	"github.com/stretchr/testify/assert"
 )
 

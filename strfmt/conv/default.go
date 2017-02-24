@@ -1,7 +1,7 @@
 package conv
 
 import (
-	"github.com/go-openapi/strfmt"
+	"github.com/mindworker/go-openapi-without-unsafe/strfmt"
 )
 
 // Base64 returns a pointer to of the Base64 value passed in.

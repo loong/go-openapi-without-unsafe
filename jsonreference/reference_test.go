@@ -28,7 +28,7 @@ package jsonreference
 import (
 	"testing"
 
-	"github.com/go-openapi/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
 	"github.com/stretchr/testify/assert"
 )
 

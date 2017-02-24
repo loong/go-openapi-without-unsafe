@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-openapi/errors"
+	"github.com/mindworker/go-openapi-without-unsafe/errors"
 	"github.com/mitchellh/mapstructure"
 )
 

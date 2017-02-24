@@ -22,10 +22,10 @@ import (
 
 	"path/filepath"
 
-	"github.com/go-openapi/analysis"
-	"github.com/go-openapi/loads/fmts"
-	"github.com/go-openapi/spec"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/analysis"
+	"github.com/mindworker/go-openapi-without-unsafe/loads/fmts"
+	"github.com/mindworker/go-openapi-without-unsafe/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 // JSONDoc loads a json document from either a file or a remote url

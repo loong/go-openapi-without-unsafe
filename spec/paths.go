@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 // Paths holds the relative paths to the individual endpoints.

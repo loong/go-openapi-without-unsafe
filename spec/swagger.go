@@ -19,8 +19,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/go-openapi/jsonpointer"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 )
 
 // Swagger this is the root document object for the API specification.

@@ -21,9 +21,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/go-openapi/loads/fmts"
-	"github.com/go-openapi/spec"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/loads/fmts"
+	"github.com/mindworker/go-openapi-without-unsafe/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 	"github.com/stretchr/testify/assert"
 )
 

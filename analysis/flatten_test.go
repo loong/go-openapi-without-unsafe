@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-openapi/jsonpointer"
-	"github.com/go-openapi/spec"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/spec"
 	"github.com/stretchr/testify/assert"
 )
 

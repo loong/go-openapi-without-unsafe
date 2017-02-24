@@ -21,8 +21,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/go-openapi/jsonpointer"
-	"github.com/go-openapi/swag"
+	"github.com/mindworker/go-openapi-without-unsafe/jsonpointer"
+	"github.com/mindworker/go-openapi-without-unsafe/swag"
 	"github.com/stretchr/testify/assert"
 )
 
