@@ -25,8 +25,8 @@ import (
 
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/mailru/easyjson/jlexer"
-	"github.com/mailru/easyjson/jwriter"
+	"github.com/mindworker/easyjson/jlexer"
+	"github.com/mindworker/easyjson/jwriter"
 )
 
 func init() {

@@ -22,8 +22,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mailru/easyjson/jlexer"
-	"github.com/mailru/easyjson/jwriter"
+	"github.com/mindworker/easyjson/jlexer"
+	"github.com/mindworker/easyjson/jwriter"
 )
 
 // DefaultJSONNameProvider the default cache for types
